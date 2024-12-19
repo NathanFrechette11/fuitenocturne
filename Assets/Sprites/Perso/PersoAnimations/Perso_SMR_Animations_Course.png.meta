@@ -1,0 +1,1315 @@
+fileFormatVersion: 2
+guid: 76f85b0820ffa1c419b77003656b8e08
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Perso_Course_Full_Vague instance 10000
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 321
+        width: 101
+        height: 187
+      alignment: 9
+      pivot: {x: 0.6282178, y: 0.50427806}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b54d94ebdb79204c97d0dd462f616df
+      internalID: -6763075663754537777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_Course_Full_Vague instance 10001
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 321
+        width: 101
+        height: 187
+      alignment: 9
+      pivot: {x: 0.6282178, y: 0.50427806}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372d77007239b914b9d43ad84856fd7e
+      internalID: -8734958937550669507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_Course_Full_Vague instance 10002
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 321
+        width: 101
+        height: 187
+      alignment: 9
+      pivot: {x: 0.6282178, y: 0.50427806}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff7cf4bbcadcfb44becd0f251424dbe
+      internalID: -3180858230273326011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_Course_Full_Vague instance 10003
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 321
+        width: 101
+        height: 187
+      alignment: 9
+      pivot: {x: 0.6282178, y: 0.50427806}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d227e5b8eed336a4a93fe4dcc64e94b5
+      internalID: -5871951560644098624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_Course_Full_Vague instance 10004
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 321
+        width: 101
+        height: 187
+      alignment: 9
+      pivot: {x: 0.6282178, y: 0.50427806}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab9d7084db25f34c9b9901c36e9c9f5
+      internalID: -7870864976975927919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_Course_Full_Vague instance 10005
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 321
+        width: 95
+        height: 187
+      alignment: 9
+      pivot: {x: 0.42578945, y: 0.4935829}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80922ac9c7ab0741b49c357744ee62b
+      internalID: 8170065767392085813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_Course_Full_Vague instance 10006
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 321
+        width: 95
+        height: 187
+      alignment: 9
+      pivot: {x: 0.42578945, y: 0.4935829}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ab6da9b46d6db4fb1ca433bc70ca41
+      internalID: 6092163716324092760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_Course_Full_Vague instance 10007
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 321
+        width: 95
+        height: 187
+      alignment: 9
+      pivot: {x: 0.42578945, y: 0.4935829}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7776643cdc2bb0045bc1de7a55fd016a
+      internalID: 7317568741472411407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_Course_Full_Vague instance 10008
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 321
+        width: 95
+        height: 187
+      alignment: 9
+      pivot: {x: 0.42578945, y: 0.4935829}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c3aa804b47b97643b034d7bdfdd7240
+      internalID: -6922698747345699210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_Course_Full_Vague instance 10009
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 321
+        width: 95
+        height: 187
+      alignment: 9
+      pivot: {x: 0.42578945, y: 0.4935829}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fee338ff66ffcd458f036128ed70fb9
+      internalID: 7378977705274675901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_Course_Full_Vague instance 10010
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 321
+        width: 95
+        height: 187
+      alignment: 9
+      pivot: {x: 0.42578945, y: 0.4935829}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c89e5f22f09e30942bea11f5ff0a3c0b
+      internalID: 7918082605917139115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_Course_Full_Vague instance 10011
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 321
+        width: 104
+        height: 187
+      alignment: 9
+      pivot: {x: 0.4274038, y: 0.4935829}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a1cfb48714a2f4ca17c8606d1fceb2
+      internalID: 7229803294420748718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_Course_Full_Vague instance 10012
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 321
+        width: 104
+        height: 187
+      alignment: 9
+      pivot: {x: 0.4274038, y: 0.4935829}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc8b81677a39644e9b1c820dea38f1a
+      internalID: -5203065334846411058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_Course_Full_Vague instance 10013
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 321
+        width: 104
+        height: 187
+      alignment: 9
+      pivot: {x: 0.4274038, y: 0.4935829}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044c605b8051e9a489271d94376b3155
+      internalID: 3781504921791436785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_Course_Full_Vague instance 10014
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 321
+        width: 104
+        height: 187
+      alignment: 9
+      pivot: {x: 0.4274038, y: 0.4935829}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d430339a38d789547805782bb908ddb5
+      internalID: 2749257273938589845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_Course_Full_Vague instance 10015
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 321
+        width: 104
+        height: 187
+      alignment: 9
+      pivot: {x: 0.4274038, y: 0.4935829}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab0e676c17775748a82d97edd7e2301
+      internalID: 5969132091645698747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_Course_Full_Vague instance 10016
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 321
+        width: 104
+        height: 187
+      alignment: 9
+      pivot: {x: 0.4274038, y: 0.4935829}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c3033f4ea03dec469d9ea6dadbaa615
+      internalID: 3120521284514988440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_Course_Full_Vague instance 10017
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 321
+        width: 90
+        height: 187
+      alignment: 9
+      pivot: {x: 0.6494444, y: 0.4935829}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b36550f6577f34c8b7d83192515d83
+      internalID: -8177429824319511774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_Course_Full_Vague instance 10018
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 321
+        width: 90
+        height: 187
+      alignment: 9
+      pivot: {x: 0.6494444, y: 0.4935829}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e993bf1f95a2b4478a871df884875f0
+      internalID: 1257036925493145264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_Course_Full_Vague instance 10019
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 321
+        width: 90
+        height: 187
+      alignment: 9
+      pivot: {x: 0.6494444, y: 0.4935829}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36706d1ae2223240b201c089f73d48b
+      internalID: -654635742741328703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_Course_Full_Vague instance 10020
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 321
+        width: 90
+        height: 187
+      alignment: 9
+      pivot: {x: 0.6494444, y: 0.4935829}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0378e22e1aafee4f8dfa7d7e7ab05e7
+      internalID: 2016359856812989183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_Course_Full_Vague instance 10021
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 321
+        width: 90
+        height: 187
+      alignment: 9
+      pivot: {x: 0.6494444, y: 0.4935829}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f1a52b99d0e4345bcc4f5d4ace2854
+      internalID: -1678178528549573498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_Course_Full_Vague instance 10022
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 321
+        width: 90
+        height: 187
+      alignment: 9
+      pivot: {x: 0.6494444, y: 0.4935829}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 815e6f605e05f26478ce550c0f07069e
+      internalID: 2277314889928578118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_Course_Full_Vague instance 10023
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 130
+        width: 100
+        height: 187
+      alignment: 9
+      pivot: {x: 0.76449996, y: 0.49893048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d53791ad8bbc24b8b8ac8bcc13032f
+      internalID: 6527053701233718104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_Course_Full_Vague instance 10024
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 130
+        width: 100
+        height: 187
+      alignment: 9
+      pivot: {x: 0.76449996, y: 0.49893048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad9b6edabc3b5d498cafbedeb3845ca
+      internalID: -1094146637053223969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_Course_Full_Vague instance 10025
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 130
+        width: 100
+        height: 187
+      alignment: 9
+      pivot: {x: 0.76449996, y: 0.49893048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 876146f96b2a95c49a0d9e280d8cc540
+      internalID: -8599852189386838743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_Course_Full_Vague instance 10026
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 130
+        width: 100
+        height: 187
+      alignment: 9
+      pivot: {x: 0.76449996, y: 0.49893048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a31294087b7d504469ef1018b7e7813b
+      internalID: -558401158056368645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_Course_Full_Vague instance 10027
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 130
+        width: 100
+        height: 187
+      alignment: 9
+      pivot: {x: 0.76449996, y: 0.49893048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b706f517c1ee3fa4f8fc0725a2ea82d1
+      internalID: 8924504160961061624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_Course_Full_Vague instance 10028
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 130
+        width: 100
+        height: 187
+      alignment: 9
+      pivot: {x: 0.76449996, y: 0.49893048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce122df30ffc45147be9e03d48bcf449
+      internalID: -6088345087229867291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_Course_Full_Vague instance 10029
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 130
+        width: 75
+        height: 187
+      alignment: 9
+      pivot: {x: 0.52599996, y: 0.48823532}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef8929de3dcd914d931754022fc19b4
+      internalID: -7886854173644240405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_Course_Full_Vague instance 10030
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 130
+        width: 75
+        height: 187
+      alignment: 9
+      pivot: {x: 0.52599996, y: 0.48823532}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58df31474e1a57b49a45cadabad84d3c
+      internalID: 4091314823210853137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_Course_Full_Vague instance 10031
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 130
+        width: 75
+        height: 187
+      alignment: 9
+      pivot: {x: 0.52599996, y: 0.48823532}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb986735f21b3d45a66c3fdccd61507
+      internalID: 5298913337882755545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_Course_Full_Vague instance 10032
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 130
+        width: 75
+        height: 187
+      alignment: 9
+      pivot: {x: 0.52599996, y: 0.48823532}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9d7be925a64da489080cb8ce3981b3
+      internalID: -17267666015083886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_Course_Full_Vague instance 10033
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 130
+        width: 75
+        height: 187
+      alignment: 9
+      pivot: {x: 0.52599996, y: 0.48823532}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361d887f05578c64ca2368149e686785
+      internalID: 6487621057565964080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_Course_Full_Vague instance 10034
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 130
+        width: 75
+        height: 187
+      alignment: 9
+      pivot: {x: 0.52599996, y: 0.48823532}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c91fd0cfa569e16459a798d429aeb02b
+      internalID: 6670723594696566555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_Course_Full_Vague instance 10035
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 131
+        width: 101
+        height: 186
+      alignment: 9
+      pivot: {x: 0.46980196, y: 0.48548388}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d7e313ab80b37449abd2e2e13e0584
+      internalID: -1584406918610994718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_Course_Full_Vague instance 10036
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 131
+        width: 101
+        height: 186
+      alignment: 9
+      pivot: {x: 0.46980196, y: 0.48548388}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f162d7c5b06d3744afd5bf0ce5e6114
+      internalID: -708923475183891387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_Course_Full_Vague instance 10037
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 131
+        width: 101
+        height: 186
+      alignment: 9
+      pivot: {x: 0.46980196, y: 0.48548388}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c078e70eb9131ba49a956b394d6c5154
+      internalID: 213524747443125865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_Course_Full_Vague instance 10038
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 131
+        width: 101
+        height: 186
+      alignment: 9
+      pivot: {x: 0.46980196, y: 0.48548388}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19cdb03492f44c94690d03022ac7df10
+      internalID: 8541861366828801120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_Course_Full_Vague instance 10039
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 131
+        width: 101
+        height: 186
+      alignment: 9
+      pivot: {x: 0.46980196, y: 0.48548388}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 679b91bf40c1faf4099d684416758c69
+      internalID: -3577989017313765593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_Course_Full_Vague instance 10040
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 131
+        width: 101
+        height: 186
+      alignment: 9
+      pivot: {x: 0.46980196, y: 0.48548388}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea7a25fb1f35c240977f43c57ba2be8
+      internalID: -6738522037260100074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_Course_Full_Vague instance 10041
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 131
+        width: 93
+        height: 186
+      alignment: 9
+      pivot: {x: 0.7252688, y: 0.5016129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a869ca2839489ef4ba107108d0acfe84
+      internalID: 8643332691536494137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_Course_Full_Vague instance 10042
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 131
+        width: 93
+        height: 186
+      alignment: 9
+      pivot: {x: 0.7252688, y: 0.5016129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92501b0c075ec084fba48b199784014c
+      internalID: 8154645993619036529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_Course_Full_Vague instance 10043
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 131
+        width: 93
+        height: 186
+      alignment: 9
+      pivot: {x: 0.7252688, y: 0.5016129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae75b0ebad31edd43a90191c6367104d
+      internalID: 5525669911869984287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_Course_Full_Vague instance 10044
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 131
+        width: 93
+        height: 186
+      alignment: 9
+      pivot: {x: 0.7252688, y: 0.5016129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e4d303721aa10479087e03493b3d89
+      internalID: -8856071433022188233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_Course_Full_Vague instance 10045
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 131
+        width: 93
+        height: 186
+      alignment: 9
+      pivot: {x: 0.7252688, y: 0.5016129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d61621fa55a5e346823249be0fd9e4b
+      internalID: 387475965362316122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_Course_Full_Vague instance 10046
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 131
+        width: 93
+        height: 186
+      alignment: 9
+      pivot: {x: 0.7252688, y: 0.5016129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04715b471a0268418fc408030560e46
+      internalID: 7144790065053002579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_Course_Full_Vague instance 10047
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 131
+        width: 110
+        height: 186
+      alignment: 9
+      pivot: {x: 0.66772723, y: 0.50698924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f085ed4aea7f9448d21723daa95e91
+      internalID: -3867510906746586616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_Course_Full_Vague instance 10048
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 131
+        width: 110
+        height: 186
+      alignment: 9
+      pivot: {x: 0.66772723, y: 0.50698924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09cbb16c164a6d4b8b67c6d23de9699
+      internalID: 8723979523019137961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_Course_Full_Vague instance 10049
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 131
+        width: 110
+        height: 186
+      alignment: 9
+      pivot: {x: 0.66772723, y: 0.50698924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd4b24975cf4f99429505a9347e938e8
+      internalID: 4429767925323128590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_Course_Full_Vague instance 10050
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 131
+        width: 110
+        height: 186
+      alignment: 9
+      pivot: {x: 0.66772723, y: 0.50698924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a9583ab50ec6f45bb74475af3ead92
+      internalID: -6273478761729586068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_Course_Full_Vague instance 10051
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 131
+        width: 110
+        height: 186
+      alignment: 9
+      pivot: {x: 0.66772723, y: 0.50698924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c3a22f245b6654bba2b38812c769cd
+      internalID: -6775637395116383928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_Course_Full_Vague instance 10052
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 131
+        width: 110
+        height: 186
+      alignment: 9
+      pivot: {x: 0.66772723, y: 0.50698924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7346ea9b36d9547b571e846b6dfce2
+      internalID: -2815316567145517691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_Course_Full_Vague instance 10053
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 131
+        width: 110
+        height: 186
+      alignment: 9
+      pivot: {x: 0.66772723, y: 0.50698924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4726aae7d40e1488d6472a7a53b046
+      internalID: 6368105402343032035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Perso_Course_Full_Vague instance 10000: -6763075663754537777
+      Perso_Course_Full_Vague instance 10001: -8734958937550669507
+      Perso_Course_Full_Vague instance 10002: -3180858230273326011
+      Perso_Course_Full_Vague instance 10003: -5871951560644098624
+      Perso_Course_Full_Vague instance 10004: -7870864976975927919
+      Perso_Course_Full_Vague instance 10005: 8170065767392085813
+      Perso_Course_Full_Vague instance 10006: 6092163716324092760
+      Perso_Course_Full_Vague instance 10007: 7317568741472411407
+      Perso_Course_Full_Vague instance 10008: -6922698747345699210
+      Perso_Course_Full_Vague instance 10009: 7378977705274675901
+      Perso_Course_Full_Vague instance 10010: 7918082605917139115
+      Perso_Course_Full_Vague instance 10011: 7229803294420748718
+      Perso_Course_Full_Vague instance 10012: -5203065334846411058
+      Perso_Course_Full_Vague instance 10013: 3781504921791436785
+      Perso_Course_Full_Vague instance 10014: 2749257273938589845
+      Perso_Course_Full_Vague instance 10015: 5969132091645698747
+      Perso_Course_Full_Vague instance 10016: 3120521284514988440
+      Perso_Course_Full_Vague instance 10017: -8177429824319511774
+      Perso_Course_Full_Vague instance 10018: 1257036925493145264
+      Perso_Course_Full_Vague instance 10019: -654635742741328703
+      Perso_Course_Full_Vague instance 10020: 2016359856812989183
+      Perso_Course_Full_Vague instance 10021: -1678178528549573498
+      Perso_Course_Full_Vague instance 10022: 2277314889928578118
+      Perso_Course_Full_Vague instance 10023: 6527053701233718104
+      Perso_Course_Full_Vague instance 10024: -1094146637053223969
+      Perso_Course_Full_Vague instance 10025: -8599852189386838743
+      Perso_Course_Full_Vague instance 10026: -558401158056368645
+      Perso_Course_Full_Vague instance 10027: 8924504160961061624
+      Perso_Course_Full_Vague instance 10028: -6088345087229867291
+      Perso_Course_Full_Vague instance 10029: -7886854173644240405
+      Perso_Course_Full_Vague instance 10030: 4091314823210853137
+      Perso_Course_Full_Vague instance 10031: 5298913337882755545
+      Perso_Course_Full_Vague instance 10032: -17267666015083886
+      Perso_Course_Full_Vague instance 10033: 6487621057565964080
+      Perso_Course_Full_Vague instance 10034: 6670723594696566555
+      Perso_Course_Full_Vague instance 10035: -1584406918610994718
+      Perso_Course_Full_Vague instance 10036: -708923475183891387
+      Perso_Course_Full_Vague instance 10037: 213524747443125865
+      Perso_Course_Full_Vague instance 10038: 8541861366828801120
+      Perso_Course_Full_Vague instance 10039: -3577989017313765593
+      Perso_Course_Full_Vague instance 10040: -6738522037260100074
+      Perso_Course_Full_Vague instance 10041: 8643332691536494137
+      Perso_Course_Full_Vague instance 10042: 8154645993619036529
+      Perso_Course_Full_Vague instance 10043: 5525669911869984287
+      Perso_Course_Full_Vague instance 10044: -8856071433022188233
+      Perso_Course_Full_Vague instance 10045: 387475965362316122
+      Perso_Course_Full_Vague instance 10046: 7144790065053002579
+      Perso_Course_Full_Vague instance 10047: -3867510906746586616
+      Perso_Course_Full_Vague instance 10048: 8723979523019137961
+      Perso_Course_Full_Vague instance 10049: 4429767925323128590
+      Perso_Course_Full_Vague instance 10050: -6273478761729586068
+      Perso_Course_Full_Vague instance 10051: -6775637395116383928
+      Perso_Course_Full_Vague instance 10052: -2815316567145517691
+      Perso_Course_Full_Vague instance 10053: 6368105402343032035
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

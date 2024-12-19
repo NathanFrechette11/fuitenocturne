@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Perso_SMR.png">
+	<!-- Created with Adobe Animate version 24.0.1.329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="_Perso3-4Complet0000" x="2" y="2" width="63" height="189" pivotX="22.55" pivotY="91.55"/>
+</TextureAtlas>
