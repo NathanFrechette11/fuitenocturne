@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Pillule
+  - SautEnnemie
+  - Ennemie
+  - Couteau
+  - Joueur
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - TuilesBloc
+  - Objets
+  - Perso
+  - Ennemie
+  - balle
+  - couteau
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: TuilesFond
+    uniqueID: 3823906681
+    locked: 0
+  - name: TuilesDevant
+    uniqueID: 266683019
+    locked: 0
+  - name: Objets
+    uniqueID: 583512711
+    locked: 0
+  - name: Ennemie
+    uniqueID: 2827588679
+    locked: 0
+  - name: Perso
+    uniqueID: 886307049
+    locked: 0
+  - name: UI
+    uniqueID: 2135291901
+    locked: 0
