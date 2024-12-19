@@ -1,0 +1,787 @@
+fileFormatVersion: 2
+guid: c3f63022528988642a227bc81bac25db
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Perso_Chute_Full instance 10000
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 314
+        width: 69
+        height: 194
+      alignment: 9
+      pivot: {x: 0.41811594, y: 0.36082473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4a363e50c9a574c8a8872ca710e078
+      internalID: 8327990596741932690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_Chute_Full instance 10001
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 314
+        width: 69
+        height: 194
+      alignment: 9
+      pivot: {x: 0.41811594, y: 0.36082473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68dd628d3fb4c44b865e9993efa7d6e
+      internalID: 694042041993110787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_Chute_Full instance 10002
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 314
+        width: 69
+        height: 194
+      alignment: 9
+      pivot: {x: 0.41811594, y: 0.36082473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d96018211ea9148b531e258717cbf6
+      internalID: 3919193939215054279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_Chute_Full instance 10003
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 313
+        width: 76
+        height: 195
+      alignment: 9
+      pivot: {x: 0.34013158, y: 0.42051283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499ab9eea781b5c4190fd5db8bf5f05d
+      internalID: 2848663909903520068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_Chute_Full instance 10004
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 313
+        width: 76
+        height: 195
+      alignment: 9
+      pivot: {x: 0.34013158, y: 0.42051283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f96603ffed66e48990003e5539a507
+      internalID: 5355880615006462094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_Chute_Full instance 10005
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 313
+        width: 76
+        height: 195
+      alignment: 9
+      pivot: {x: 0.34013158, y: 0.42051283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c139c0ddc070ec4ca1bc42f1637c5ae
+      internalID: -8583195772204691063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_Chute_Full instance 10006
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 313
+        width: 76
+        height: 195
+      alignment: 9
+      pivot: {x: 0.34013158, y: 0.42051283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33640704bb450cb4fa209970acbd83f9
+      internalID: -7006560637956618056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_Chute_Full instance 10007
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 317
+        width: 72
+        height: 191
+      alignment: 9
+      pivot: {x: 0.30347222, y: 0.43979058}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f6728458bff7ef4793e3c3698fdb4d4
+      internalID: -508024933425905541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_Chute_Full instance 10008
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 317
+        width: 72
+        height: 191
+      alignment: 9
+      pivot: {x: 0.30347222, y: 0.43979058}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283fe30b0ba49474ab7069102d2f033b
+      internalID: -7481921246046010967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_Chute_Full instance 10009
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 317
+        width: 72
+        height: 191
+      alignment: 9
+      pivot: {x: 0.30347222, y: 0.43979058}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a29970add1ead4aa8bd6c712e6de75
+      internalID: 2865859899303154599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_Chute_Full instance 10010
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 326
+        width: 99
+        height: 182
+      alignment: 9
+      pivot: {x: 0.23080808, y: 0.47802198}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1910a29320922b94a97bcf83bf1b110c
+      internalID: -785716171621496418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_Chute_Full instance 10011
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 326
+        width: 99
+        height: 182
+      alignment: 9
+      pivot: {x: 0.23080808, y: 0.47802198}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b752fc1578c77b045907980e87724740
+      internalID: -4989777229337672684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_Chute_Full instance 10012
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 326
+        width: 99
+        height: 182
+      alignment: 9
+      pivot: {x: 0.23080808, y: 0.47802198}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98a12022e162104ba4b91b6c86bfcbc
+      internalID: 4310893351699852897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_Chute_Full instance 10013
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 326
+        width: 99
+        height: 182
+      alignment: 9
+      pivot: {x: 0.23080808, y: 0.47802198}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dcdd6d235bd5164f9c033d0a31f45fb
+      internalID: -7657308683894114475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_Chute_Full instance 10014
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 325
+        width: 73
+        height: 183
+      alignment: 9
+      pivot: {x: 0.3952055, y: 0.5191257}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a121fe4f8280c3438eac1e3b8533e1f
+      internalID: 908057293988260038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_Chute_Full instance 10015
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 325
+        width: 73
+        height: 183
+      alignment: 9
+      pivot: {x: 0.3952055, y: 0.5191257}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 965bcfa8ebabe214ebf6fb99947b46b0
+      internalID: 3863429268458242243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_Chute_Full instance 10016
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 325
+        width: 73
+        height: 183
+      alignment: 9
+      pivot: {x: 0.3952055, y: 0.5191257}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f8942aa52e7c064d8156ee67e22315c
+      internalID: 7687454130702162433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_Chute_Full instance 10017
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 325
+        width: 73
+        height: 183
+      alignment: 9
+      pivot: {x: 0.3952055, y: 0.5191257}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 275bb000c40c47a4781b99e588100a9e
+      internalID: 4104808774470300784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_Chute_Full instance 10018
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 340
+        width: 76
+        height: 168
+      alignment: 9
+      pivot: {x: 0.39276317, y: 0.5654762}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b40bfaa027f2d1428cbc2043593e4e2
+      internalID: -1282576433618520702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_Chute_Full instance 10019
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 340
+        width: 76
+        height: 168
+      alignment: 9
+      pivot: {x: 0.39276317, y: 0.5654762}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 822a64a26f5377c40a4a19785af9ee67
+      internalID: -12971728451891462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_Chute_Full instance 10020
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 340
+        width: 76
+        height: 168
+      alignment: 9
+      pivot: {x: 0.39276317, y: 0.5654762}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b22c2c7979c447d46b33b871b9c93d5b
+      internalID: 1652633085884032013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_Chute_Full instance 10021
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 340
+        width: 76
+        height: 168
+      alignment: 9
+      pivot: {x: 0.39276317, y: 0.5654762}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35bf53a250db16947b3399381ca49438
+      internalID: -5686694683839195487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_Chute_Full instance 10022
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 124
+        width: 52
+        height: 185
+      alignment: 9
+      pivot: {x: 0.53557694, y: 0.5135135}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afaa496f25f56914bbdc3660b5bb6143
+      internalID: -7489826107157265825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_Chute_Full instance 10023
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 124
+        width: 52
+        height: 185
+      alignment: 9
+      pivot: {x: 0.53557694, y: 0.5135135}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fcd0c721c3b0a64b86be01a09f0179f
+      internalID: -5418316799215233142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_Chute_Full instance 10024
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 124
+        width: 52
+        height: 185
+      alignment: 9
+      pivot: {x: 0.53557694, y: 0.5135135}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebeb50c63fedb7a47b09d830001eaaa6
+      internalID: 5494360201489314273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_Chute_Full instance 10025
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 124
+        width: 52
+        height: 185
+      alignment: 9
+      pivot: {x: 0.53557694, y: 0.5135135}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fec5fb9b0ba2914e8d72ab20d0a8911
+      internalID: 8015845807236097165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_Chute_Full instance 10026
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 118
+        width: 56
+        height: 191
+      alignment: 9
+      pivot: {x: 0.51517856, y: 0.4973822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded74ac6ee9fcf541a68d73da72ab9ec
+      internalID: 1386647926057936512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_Chute_Full instance 10027
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 118
+        width: 56
+        height: 191
+      alignment: 9
+      pivot: {x: 0.51517856, y: 0.4973822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0adfc66803cf10244a0c5f9f5b80b491
+      internalID: -246012761587999202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_Chute_Full instance 10028
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 118
+        width: 56
+        height: 191
+      alignment: 9
+      pivot: {x: 0.51517856, y: 0.4973822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a040d667fbce6fb4b95a3b715a1686e5
+      internalID: 3587256054672197283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_Chute_Full instance 10029
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 118
+        width: 56
+        height: 191
+      alignment: 9
+      pivot: {x: 0.51517856, y: 0.4973822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53c5072c0fc6ab418fd8611e3203378
+      internalID: 2952703990574205859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Perso_Chute_Full instance 10000: 8327990596741932690
+      Perso_Chute_Full instance 10001: 694042041993110787
+      Perso_Chute_Full instance 10002: 3919193939215054279
+      Perso_Chute_Full instance 10003: 2848663909903520068
+      Perso_Chute_Full instance 10004: 5355880615006462094
+      Perso_Chute_Full instance 10005: -8583195772204691063
+      Perso_Chute_Full instance 10006: -7006560637956618056
+      Perso_Chute_Full instance 10007: -508024933425905541
+      Perso_Chute_Full instance 10008: -7481921246046010967
+      Perso_Chute_Full instance 10009: 2865859899303154599
+      Perso_Chute_Full instance 10010: -785716171621496418
+      Perso_Chute_Full instance 10011: -4989777229337672684
+      Perso_Chute_Full instance 10012: 4310893351699852897
+      Perso_Chute_Full instance 10013: -7657308683894114475
+      Perso_Chute_Full instance 10014: 908057293988260038
+      Perso_Chute_Full instance 10015: 3863429268458242243
+      Perso_Chute_Full instance 10016: 7687454130702162433
+      Perso_Chute_Full instance 10017: 4104808774470300784
+      Perso_Chute_Full instance 10018: -1282576433618520702
+      Perso_Chute_Full instance 10019: -12971728451891462
+      Perso_Chute_Full instance 10020: 1652633085884032013
+      Perso_Chute_Full instance 10021: -5686694683839195487
+      Perso_Chute_Full instance 10022: -7489826107157265825
+      Perso_Chute_Full instance 10023: -5418316799215233142
+      Perso_Chute_Full instance 10024: 5494360201489314273
+      Perso_Chute_Full instance 10025: 8015845807236097165
+      Perso_Chute_Full instance 10026: 1386647926057936512
+      Perso_Chute_Full instance 10027: -246012761587999202
+      Perso_Chute_Full instance 10028: 3587256054672197283
+      Perso_Chute_Full instance 10029: 2952703990574205859
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

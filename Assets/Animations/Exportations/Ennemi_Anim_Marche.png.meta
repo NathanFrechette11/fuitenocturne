@@ -1,0 +1,1183 @@
+fileFormatVersion: 2
+guid: 7d3f85d71c5acbb47a03c778695f841b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ennemi_Marche_Full0000
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 293
+        width: 154
+        height: 215
+      alignment: 9
+      pivot: {x: 0.4766234, y: 0.4995349}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16defe53e2185f546b1ee16c05df8760
+      internalID: 6866967609004400867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Marche_Full0001
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 293
+        width: 154
+        height: 215
+      alignment: 9
+      pivot: {x: 0.4766234, y: 0.4995349}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b2f72515ea53e24eadb5c4ddc284e22
+      internalID: 3555286859267240023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Marche_Full0002
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 293
+        width: 154
+        height: 215
+      alignment: 9
+      pivot: {x: 0.4766234, y: 0.4995349}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 730a9531555bffc44917137cc905b031
+      internalID: -6826375098008666721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Marche_Full0003
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 293
+        width: 154
+        height: 215
+      alignment: 9
+      pivot: {x: 0.4766234, y: 0.4995349}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b64ba848cac8242b888b014db11a49
+      internalID: 3441974894695220272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Marche_Full0004
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 293
+        width: 154
+        height: 215
+      alignment: 9
+      pivot: {x: 0.4766234, y: 0.4995349}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f79d61c5a9c4443bfc634618973f55
+      internalID: 4624629671782439732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Marche_Full0005
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 294
+        width: 144
+        height: 214
+      alignment: 9
+      pivot: {x: 0.4888889, y: 0.5065421}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fabee0cdcdd5d3c49af60682b8517519
+      internalID: -5993739544622127087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Marche_Full0006
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 294
+        width: 144
+        height: 214
+      alignment: 9
+      pivot: {x: 0.4888889, y: 0.5065421}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd1e4a42567d0d4ea17ab5cfe27cbd5
+      internalID: -4082279738327064457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Marche_Full0007
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 294
+        width: 144
+        height: 214
+      alignment: 9
+      pivot: {x: 0.4888889, y: 0.5065421}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd075973e76b8c4aba9bc30aeb940d1
+      internalID: -2801465895520080432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Marche_Full0008
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 294
+        width: 144
+        height: 214
+      alignment: 9
+      pivot: {x: 0.4888889, y: 0.5065421}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4052a79dededdde4d83ae47ea9beaa5e
+      internalID: -3797585753799763834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Marche_Full0009
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 294
+        width: 144
+        height: 214
+      alignment: 9
+      pivot: {x: 0.4888889, y: 0.5065421}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7458c6bfcdab3704694ef2d698ccb1ec
+      internalID: 6204247931919963876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Marche_Full0010
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 300
+        width: 142
+        height: 208
+      alignment: 9
+      pivot: {x: 0.5450704, y: 0.51634616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3bbec3136c2ba48a4ca1daba33305b
+      internalID: -7571823691985467175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Marche_Full0011
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 300
+        width: 142
+        height: 208
+      alignment: 9
+      pivot: {x: 0.5450704, y: 0.51634616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa35b9b4253abd649a601897b5eaa78c
+      internalID: 8694670368808162357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Marche_Full0012
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 300
+        width: 142
+        height: 208
+      alignment: 9
+      pivot: {x: 0.5450704, y: 0.51634616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16cbd0c367fefe34bbf3cd6113cea649
+      internalID: -8452786229226628347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Marche_Full0013
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 300
+        width: 142
+        height: 208
+      alignment: 9
+      pivot: {x: 0.5450704, y: 0.51634616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a56aa7392a0b2ee4b98b4bd6f23dbbc6
+      internalID: -515470625126335811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Marche_Full0014
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 300
+        width: 142
+        height: 208
+      alignment: 9
+      pivot: {x: 0.5450704, y: 0.51634616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8314c7c4905578141bce70f66af1f567
+      internalID: 1309647239521515659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Marche_Full0015
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 300
+        width: 142
+        height: 208
+      alignment: 9
+      pivot: {x: 0.5450704, y: 0.51634616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e7d30a01f6e094daa80efdd3cab806
+      internalID: 1991213003840609239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Marche_Full0016
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 299
+        width: 139
+        height: 209
+      alignment: 9
+      pivot: {x: 0.5568345, y: 0.5186603}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3fdc5e140a5a724aa396f7acf200bc2
+      internalID: 1781197069769221854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Marche_Full0017
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 299
+        width: 139
+        height: 209
+      alignment: 9
+      pivot: {x: 0.5568345, y: 0.5186603}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a864a41f1a35404b88e4a9fab618496
+      internalID: -6539371842807712782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Marche_Full0018
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 299
+        width: 139
+        height: 209
+      alignment: 9
+      pivot: {x: 0.5568345, y: 0.5186603}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a4dc187da428348a78246b6ccf8acb
+      internalID: 7851580292769456436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Marche_Full0019
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 299
+        width: 139
+        height: 209
+      alignment: 9
+      pivot: {x: 0.5568345, y: 0.5186603}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96bb35a29c7145741bf3e83eb819a8bd
+      internalID: -2647084694592083188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Marche_Full0020
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 299
+        width: 139
+        height: 209
+      alignment: 9
+      pivot: {x: 0.5568345, y: 0.5186603}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb3eb39e1599c944c8dba2ce41d5f0e5
+      internalID: 2174418525625239129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Marche_Full0021
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 300
+        width: 136
+        height: 208
+      alignment: 9
+      pivot: {x: 0.5176471, y: 0.51634616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ae060718de2f24fb1c7b843ced7be5
+      internalID: -3303405850551774829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Marche_Full0022
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 300
+        width: 136
+        height: 208
+      alignment: 9
+      pivot: {x: 0.5176471, y: 0.51634616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a004d4a6b854f4f88700a2ef45cbd1
+      internalID: -4701152336598378508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Marche_Full0023
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 300
+        width: 136
+        height: 208
+      alignment: 9
+      pivot: {x: 0.5176471, y: 0.51634616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258cae57447983041b9a09c13263da4c
+      internalID: 5707453049205621546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Marche_Full0024
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 300
+        width: 136
+        height: 208
+      alignment: 9
+      pivot: {x: 0.5176471, y: 0.51634616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178d89bfca61a6b4c9a1285d4661f7e1
+      internalID: 6989004924032478867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Marche_Full0025
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 300
+        width: 136
+        height: 208
+      alignment: 9
+      pivot: {x: 0.5176471, y: 0.51634616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84bf16f149adffe4c907acd8309d508d
+      internalID: -1636676691192980907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Marche_Full0026
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 300
+        width: 136
+        height: 208
+      alignment: 9
+      pivot: {x: 0.5176471, y: 0.51634616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792398185f752c84dbc0baae4b8809df
+      internalID: 2388301566804880272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Marche_Full0027
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 296
+        width: 157
+        height: 212
+      alignment: 9
+      pivot: {x: 0.4611465, y: 0.5066038}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a3158608c1eae4b88d268d5a3801ff
+      internalID: -4017597297949912215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Marche_Full0028
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 296
+        width: 157
+        height: 212
+      alignment: 9
+      pivot: {x: 0.4611465, y: 0.5066038}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c236ec97ba8433f42b5af2dd1f0443ba
+      internalID: -3324093643885724467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Marche_Full0029
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 296
+        width: 157
+        height: 212
+      alignment: 9
+      pivot: {x: 0.4611465, y: 0.5066038}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6617112e542529f47829c9a143984125
+      internalID: 1049699556543793194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Marche_Full0030
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 296
+        width: 157
+        height: 212
+      alignment: 9
+      pivot: {x: 0.4611465, y: 0.5066038}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 695661bd3837b11479d85cb77e01c44c
+      internalID: -6239470921978535575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Marche_Full0031
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 296
+        width: 157
+        height: 212
+      alignment: 9
+      pivot: {x: 0.4611465, y: 0.5066038}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c7eb4b054f4904bb60a9e558654946
+      internalID: -1484796051651873906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Marche_Full0032
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 79
+        width: 158
+        height: 210
+      alignment: 9
+      pivot: {x: 0.4202532, y: 0.5114286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b1dd1bdae2d9345b0cd829787d9977
+      internalID: -6873138187096800680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Marche_Full0033
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 79
+        width: 158
+        height: 210
+      alignment: 9
+      pivot: {x: 0.4202532, y: 0.5114286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8820b1bb94687a84d9c1747bf8546b02
+      internalID: 1839889743893619381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Marche_Full0034
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 79
+        width: 158
+        height: 210
+      alignment: 9
+      pivot: {x: 0.4202532, y: 0.5114286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe61eec62888b1e4c93f415372df829e
+      internalID: -5166258585853753744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Marche_Full0035
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 79
+        width: 158
+        height: 210
+      alignment: 9
+      pivot: {x: 0.4202532, y: 0.5114286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db5f87e8ff076a44db7d54fddbe5b7e6
+      internalID: -4963936265089745525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Marche_Full0036
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 79
+        width: 158
+        height: 210
+      alignment: 9
+      pivot: {x: 0.4202532, y: 0.5114286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc16aef44c883c4985e47974bea014f
+      internalID: -284755913393220524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Marche_Full0037
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 78
+        width: 160
+        height: 211
+      alignment: 9
+      pivot: {x: 0.45250002, y: 0.5184834}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7012637f3d5c2546847771ee9dccd34
+      internalID: 7643021136116122434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Marche_Full0038
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 78
+        width: 160
+        height: 211
+      alignment: 9
+      pivot: {x: 0.45250002, y: 0.5184834}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 653f4858979559c428dcf73b8f08470d
+      internalID: -4750528145207958027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Marche_Full0039
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 78
+        width: 160
+        height: 211
+      alignment: 9
+      pivot: {x: 0.45250002, y: 0.5184834}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f07c6b3c87ffb694e8f8a3be263c8672
+      internalID: -6326654390862378895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Marche_Full0040
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 78
+        width: 160
+        height: 211
+      alignment: 9
+      pivot: {x: 0.45250002, y: 0.5184834}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372044342c068d54f86ebb445c281987
+      internalID: -6056184158416644643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Marche_Full0041
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 78
+        width: 160
+        height: 211
+      alignment: 9
+      pivot: {x: 0.45250002, y: 0.5184834}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1618cbcb7735ee34f85d78cdf41837a3
+      internalID: 2090825364594856266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Marche_Full0042
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 79
+        width: 153
+        height: 210
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.50666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa9489c3f77a3a847804975d5c93d4bf
+      internalID: -6397691884311738045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Marche_Full0043
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 79
+        width: 153
+        height: 210
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.50666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ec9983d007f464b89c43439a9c3d46
+      internalID: -8494600242343592569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Marche_Full0044
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 79
+        width: 153
+        height: 210
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.50666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f015b1a9d267743bddb123f3038339
+      internalID: -2902253022728379485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Marche_Full0045
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 79
+        width: 153
+        height: 210
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.50666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b8d5f56571631342874e40903c2c06c
+      internalID: -6593278178745728978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Marche_Full0046
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 79
+        width: 153
+        height: 210
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.50666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3495de94e5011314092cceef89fb8396
+      internalID: 2052084687026384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Marche_Full0047
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 79
+        width: 153
+        height: 210
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.50666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b1d311b2a949e143903c598cebd2baa
+      internalID: -1932018024238288972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Ennemi_Marche_Full0000: 6866967609004400867
+      Ennemi_Marche_Full0001: 3555286859267240023
+      Ennemi_Marche_Full0002: -6826375098008666721
+      Ennemi_Marche_Full0003: 3441974894695220272
+      Ennemi_Marche_Full0004: 4624629671782439732
+      Ennemi_Marche_Full0005: -5993739544622127087
+      Ennemi_Marche_Full0006: -4082279738327064457
+      Ennemi_Marche_Full0007: -2801465895520080432
+      Ennemi_Marche_Full0008: -3797585753799763834
+      Ennemi_Marche_Full0009: 6204247931919963876
+      Ennemi_Marche_Full0010: -7571823691985467175
+      Ennemi_Marche_Full0011: 8694670368808162357
+      Ennemi_Marche_Full0012: -8452786229226628347
+      Ennemi_Marche_Full0013: -515470625126335811
+      Ennemi_Marche_Full0014: 1309647239521515659
+      Ennemi_Marche_Full0015: 1991213003840609239
+      Ennemi_Marche_Full0016: 1781197069769221854
+      Ennemi_Marche_Full0017: -6539371842807712782
+      Ennemi_Marche_Full0018: 7851580292769456436
+      Ennemi_Marche_Full0019: -2647084694592083188
+      Ennemi_Marche_Full0020: 2174418525625239129
+      Ennemi_Marche_Full0021: -3303405850551774829
+      Ennemi_Marche_Full0022: -4701152336598378508
+      Ennemi_Marche_Full0023: 5707453049205621546
+      Ennemi_Marche_Full0024: 6989004924032478867
+      Ennemi_Marche_Full0025: -1636676691192980907
+      Ennemi_Marche_Full0026: 2388301566804880272
+      Ennemi_Marche_Full0027: -4017597297949912215
+      Ennemi_Marche_Full0028: -3324093643885724467
+      Ennemi_Marche_Full0029: 1049699556543793194
+      Ennemi_Marche_Full0030: -6239470921978535575
+      Ennemi_Marche_Full0031: -1484796051651873906
+      Ennemi_Marche_Full0032: -6873138187096800680
+      Ennemi_Marche_Full0033: 1839889743893619381
+      Ennemi_Marche_Full0034: -5166258585853753744
+      Ennemi_Marche_Full0035: -4963936265089745525
+      Ennemi_Marche_Full0036: -284755913393220524
+      Ennemi_Marche_Full0037: 7643021136116122434
+      Ennemi_Marche_Full0038: -4750528145207958027
+      Ennemi_Marche_Full0039: -6326654390862378895
+      Ennemi_Marche_Full0040: -6056184158416644643
+      Ennemi_Marche_Full0041: 2090825364594856266
+      Ennemi_Marche_Full0042: -6397691884311738045
+      Ennemi_Marche_Full0043: -8494600242343592569
+      Ennemi_Marche_Full0044: -2902253022728379485
+      Ennemi_Marche_Full0045: -6593278178745728978
+      Ennemi_Marche_Full0046: 2052084687026384
+      Ennemi_Marche_Full0047: -1932018024238288972
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
