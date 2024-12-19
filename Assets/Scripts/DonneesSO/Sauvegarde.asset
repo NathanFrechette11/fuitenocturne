@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b2b473d0c9a38d549a297f0d14150bba, type: 3}
+  m_Name: Sauvegarde
+  m_EditorClassIdentifier: 
+  _nomFichier: donnees.tim
+  _nomFichierNormal: donnees.tim
+  _nomFichierDifficile: donneesDifficile.tim
+  _lesDonneesPointage:
+  - nom: sas
+    pointage: 4080
+    joueurActuel: 1
+  - nom: Joueur1
+    pointage: 1000
+    joueurActuel: 0
+  - nom: Joueur2
+    pointage: 900
+    joueurActuel: 0
+  - nom: Joueur3
+    pointage: 800
+    joueurActuel: 0
+  - nom: Joueur4
+    pointage: 700
+    joueurActuel: 0
+  - nom: Joueur5
+    pointage: 600
+    joueurActuel: 0
